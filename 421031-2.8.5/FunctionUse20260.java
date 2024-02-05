@@ -1,0 +1,7 @@
+import org.apache.hadoop.net.NetUtils;
+public class FunctionUse20260 {
+public void funcUse() {
+NetUtils netutils = new NetUtils();
+netutils.see(null);
+}
+}

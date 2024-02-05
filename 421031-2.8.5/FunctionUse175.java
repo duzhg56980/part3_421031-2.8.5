@@ -1,0 +1,6 @@
+import org.apache.hadoop.tools.proto.GetUserMappingsProtocolProtos.GetGroupsForUserResponseProto;
+public class FunctionUse175 {
+public void funcUse() {
+GetGroupsForUserResponseProto getgroupsforuserresponseproto = new GetGroupsForUserResponseProto();
+}
+}

@@ -1,0 +1,6 @@
+import org.apache.hadoop.util.GenericOptionsParser;
+public class FunctionUse1098 {
+public void funcUse() {
+GenericOptionsParser genericoptionsparser = new GenericOptionsParser();
+}
+}
